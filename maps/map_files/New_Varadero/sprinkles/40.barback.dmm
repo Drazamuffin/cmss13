@@ -2,6 +2,10 @@
 "aa" = (
 /turf/closed/wall/rock/brown,
 /area/varadero/interior/oob)
+"ab" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/river/shallow_ocean_shallow_ocean,
+/area/varadero/exterior/pontoon_beach)
 "ac" = (
 /obj/structure/prop/rock/brown{
 	name = "sturdy rock(s)";
@@ -10,6 +14,45 @@
 	explo_proof = 1
 	},
 /turf/open/gm/river/ocean/deep_ocean,
+/area/varadero/exterior/pontoon_beach)
+"ad" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/coast/beachcorner2/north_east,
+/area/varadero/exterior/pontoon_beach)
+"ae" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/coast/north,
+/area/varadero/exterior/pontoon_beach)
+"af" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/coast/beachcorner2/north_west,
+/area/varadero/exterior/pontoon_beach)
+"ag" = (
+/obj/structure/platform/metal/kutjevo_smooth/east{
+	climb_delay = 1
+	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/river/shallow_ocean_shallow_ocean,
+/area/varadero/exterior/pontoon_beach)
+"ah" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/coast/beachcorner/south_west,
+/area/varadero/exterior/pontoon_beach)
+"ai" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/coast/south,
+/area/varadero/exterior/pontoon_beach)
+"aj" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/coast/beachcorner/south_east,
+/area/varadero/exterior/pontoon_beach)
+"ak" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/coast/beachcorner2/south_west,
+/area/varadero/exterior/pontoon_beach)
+"al" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/coast/beachcorner2/south_east,
 /area/varadero/exterior/pontoon_beach)
 "am" = (
 /obj/effect/decal/cleanable/dirt,
@@ -21,11 +64,122 @@
 /obj/effect/decal/cleanable/blood,
 /turf/open/floor/plating/wood_broken4,
 /area/varadero/interior/beach_bar)
+"an" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/coast/west,
+/area/varadero/exterior/pontoon_beach)
+"ao" = (
+/obj/structure/platform/metal/kutjevo_smooth{
+	climb_delay = 1
+	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/floor/plating/icefloor/asteroidplating,
+/area/varadero/exterior/pontoon_beach)
 "ap" = (
 /obj/structure/platform/metal/kutjevo_smooth/east{
 	climb_delay = 1
 	},
 /turf/open/gm/coast/west,
+/area/varadero/exterior/pontoon_beach)
+"aq" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/coast/east,
+/area/varadero/exterior/pontoon_beach)
+"ar" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/coast/beachcorner/north_east,
+/area/varadero/exterior/pontoon_beach)
+"as" = (
+/obj/structure/platform/metal/kutjevo_smooth/west{
+	climb_delay = 1
+	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/river/shallow_ocean_shallow_ocean,
+/area/varadero/exterior/pontoon_beach)
+"at" = (
+/obj/structure/prop/rock/brown,
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/river/shallow_ocean_shallow_ocean,
+/area/varadero/exterior/pontoon_beach)
+"au" = (
+/obj/structure/platform/metal/kutjevo_smooth{
+	climb_delay = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/floor/plating/icefloor/asteroidplating,
+/area/varadero/exterior/pontoon_beach)
+"av" = (
+/obj/structure/platform/metal/kutjevo_smooth{
+	climb_delay = 1
+	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/river/shallow_ocean_shallow_ocean,
+/area/varadero/exterior/pontoon_beach)
+"aw" = (
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/closed/wall/shiva/prefabricated/reinforced/hull{
+	name = "hydroelectric generator lattice";
+	desc = "A huge chunk of ultra-reinforced metal used to support the turbines of a hydroelectric generator. They Looks virtually indestructible."
+	},
+/area/varadero/exterior/pontoon_beach)
+"ax" = (
+/obj/structure/prop/ice_colony/dense/planter_box/hydro{
+	name = "hydroelectric generator";
+	desc = "A high-power hydroelectric generator."
+	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/river/shallow_ocean_shallow_ocean,
+/area/varadero/exterior/pontoon_beach)
+"ay" = (
+/obj/structure/platform/metal/kutjevo_smooth/north{
+	climb_delay = 1
+	},
+/obj/structure/barricade/handrail{
+	name = "support struts";
+	desc = "Your platforms look pretty heavy king, let me support them for you.";
+	icon_state = "hr_kutjevo";
+	dir = 1;
+	destroyed_stack_amount = 0;
+	stack_amount = 0
+	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/river/shallow_ocean_shallow_ocean,
+/area/varadero/exterior/pontoon_beach)
+"az" = (
+/obj/structure/platform/metal/kutjevo_smooth{
+	climb_delay = 1
+	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/river/ocean/deep_ocean,
+/area/varadero/exterior/pontoon_beach)
+"aA" = (
+/obj/structure/platform/metal/kutjevo_smooth{
+	climb_delay = 1
+	},
+/obj/structure/barricade/handrail/wire{
+	layer = 3.01
+	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/river/shallow_ocean_shallow_ocean,
+/area/varadero/exterior/pontoon_beach)
+"aB" = (
+/obj/structure/platform/metal/kutjevo_smooth{
+	climb_delay = 1
+	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/obj/structure/prop/colorable_rock/colorable{
+	dir = 8;
+	color = "B08686"
+	},
+/turf/open/gm/river/shallow_ocean_shallow_ocean,
+/area/varadero/exterior/pontoon_beach)
+"aC" = (
+/obj/structure/prop/colorable_rock/colorable/alt{
+	dir = 4;
+	color = "B08686"
+	},
+/turf/open/gm/river/shallow_ocean_shallow_ocean,
 /area/varadero/exterior/pontoon_beach)
 "aD" = (
 /obj/structure/platform/metal/kutjevo_smooth/west{
@@ -115,6 +269,7 @@
 /obj/structure/platform/metal/kutjevo_smooth/east{
 	climb_delay = 1
 	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/river/shallow_ocean_shallow_ocean,
 /area/varadero/exterior/pontoon_beach)
 "bQ" = (
@@ -164,6 +319,7 @@
 /obj/structure/barricade/handrail/wire{
 	layer = 3.01
 	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/river/ocean/deep_ocean,
 /area/varadero/exterior/pontoon_beach)
 "cF" = (
@@ -188,6 +344,7 @@
 /obj/structure/platform/metal/kutjevo_smooth/north{
 	climb_delay = 1
 	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/coast/east,
 /area/varadero/exterior/pontoon_beach)
 "dn" = (
@@ -272,6 +429,7 @@
 /obj/structure/platform/metal/kutjevo_smooth/west{
 	climb_delay = 1
 	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/river/ocean/deep_ocean,
 /area/varadero/exterior/pontoon_beach)
 "eN" = (
@@ -301,6 +459,7 @@
 /obj/structure/platform/metal/kutjevo_smooth/east{
 	climb_delay = 1
 	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/river/ocean/deep_ocean,
 /area/varadero/exterior/pontoon_beach)
 "fx" = (
@@ -367,14 +526,10 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 6
 	},
-/turf/open/gm/river/ocean/deep_ocean,
-/area/varadero/exterior/pontoon_beach)
-"hj" = (
-/obj/structure/pipes/standard/simple/hidden/green{
-	dir = 4
+/obj/structure/prop/colorable_rock/colorable/alt{
+	color = "B08686"
 	},
-/obj/structure/prop/rock/brown,
-/turf/open/gm/river/shallow_ocean_shallow_ocean,
+/turf/open/gm/river/ocean/deep_ocean,
 /area/varadero/exterior/pontoon_beach)
 "hp" = (
 /turf/open/gm/coast/beachcorner2/south_east,
@@ -731,6 +886,7 @@
 	layer = 3.01
 	},
 /obj/structure/platform_decoration/metal/kutjevo/east,
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/river/ocean/deep_ocean,
 /area/varadero/exterior/pontoon_beach)
 "nJ" = (
@@ -786,6 +942,7 @@
 /obj/structure/barricade/handrail/wire{
 	layer = 3.01
 	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/river/ocean/deep_ocean,
 /area/varadero/exterior/pontoon_beach)
 "oh" = (
@@ -909,6 +1066,7 @@
 	stack_amount = 0
 	},
 /obj/effect/decal/cleanable/dirt,
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/dirt,
 /area/varadero/exterior/pontoon_beach)
 "rf" = (
@@ -1082,9 +1240,12 @@
 	destroyed_stack_amount = 0;
 	stack_amount = 0
 	},
-/obj/structure/prop/rock,
 /obj/structure/platform/metal/kutjevo_smooth/east{
 	climb_delay = 1
+	},
+/obj/structure/prop/colorable_rock/colorable{
+	dir = 9;
+	color = "B08686"
 	},
 /turf/open/gm/coast/beachcorner2/south_east,
 /area/varadero/exterior/pontoon_beach)
@@ -1209,7 +1370,8 @@
 /area/varadero/exterior/pontoon_beach)
 "xu" = (
 /obj/structure/platform_decoration/metal/kutjevo/north,
-/turf/open/gm/river/ocean/deep_ocean,
+/obj/structure/blocker/forcefield/multitile_vehicles,
+/turf/open/gm/river/shallow_ocean_shallow_ocean,
 /area/varadero/exterior/pontoon_beach)
 "xv" = (
 /obj/structure/platform/metal/kutjevo_smooth/north{
@@ -1398,6 +1560,7 @@
 /obj/structure/platform/metal/kutjevo_smooth{
 	climb_delay = 1
 	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/coast/east,
 /area/varadero/exterior/pontoon_beach)
 "BQ" = (
@@ -1438,6 +1601,7 @@
 /area/varadero/exterior/pontoon_beach)
 "Cp" = (
 /obj/structure/platform_decoration/metal/kutjevo,
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/river/ocean/deep_ocean,
 /area/varadero/exterior/pontoon_beach)
 "CA" = (
@@ -1548,17 +1712,13 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/gm/dirt,
 /area/varadero/exterior/pontoon_beach)
-"Hz" = (
-/obj/structure/platform/metal/kutjevo_smooth/east{
-	climb_delay = 1
-	},
-/obj/structure/prop/rock/brown,
-/turf/open/gm/coast/west,
-/area/varadero/exterior/pontoon_beach)
 "HG" = (
 /obj/structure/platform_decoration/metal/kutjevo/west,
-/obj/structure/prop/rock/brown,
-/turf/open/gm/river/ocean/deep_ocean,
+/obj/structure/prop/colorable_rock/colorable{
+	dir = 9;
+	color = "B08686"
+	},
+/turf/open/gm/river/shallow_ocean_shallow_ocean,
 /area/varadero/exterior/pontoon_beach)
 "HJ" = (
 /obj/effect/overlay/palmtree_r{
@@ -1631,13 +1791,6 @@
 "JQ" = (
 /turf/open/gm/coast/north,
 /area/varadero/exterior/pontoon_beach)
-"Kk" = (
-/obj/structure/platform/metal/kutjevo_smooth/east{
-	climb_delay = 1
-	},
-/obj/structure/prop/rock/brown,
-/turf/open/gm/coast/beachcorner2/south_west,
-/area/varadero/exterior/pontoon_beach)
 "Ko" = (
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 4
@@ -1655,6 +1808,7 @@
 /obj/structure/platform/metal/kutjevo_smooth{
 	climb_delay = 1
 	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/river/ocean/deep_ocean,
 /area/varadero/exterior/pontoon_beach)
 "KZ" = (
@@ -1713,7 +1867,10 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 9
 	},
-/obj/structure/prop/rock/brown,
+/obj/structure/prop/colorable_rock/colorable{
+	dir = 5;
+	color = "B08686"
+	},
 /turf/open/gm/river/ocean/deep_ocean,
 /area/varadero/exterior/pontoon_beach)
 "ME" = (
@@ -1861,6 +2018,7 @@
 	destroyed_stack_amount = 0;
 	stack_amount = 0
 	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/dirt,
 /area/varadero/exterior/pontoon_beach)
 "PW" = (
@@ -1890,6 +2048,7 @@
 /obj/structure/catwalk{
 	explo_proof = 1
 	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/floor/plating/icefloor/asteroidplating,
 /area/varadero/exterior/pontoon_beach)
 "Rq" = (
@@ -2160,6 +2319,10 @@
 /obj/structure/pipes/standard/simple/hidden/green{
 	dir = 5
 	},
+/obj/structure/prop/colorable_rock/colorable{
+	color = "B08686";
+	dir = 4
+	},
 /turf/open/gm/river/ocean/deep_ocean,
 /area/varadero/exterior/pontoon_beach)
 "Yy" = (
@@ -2206,6 +2369,7 @@
 	destroyed_stack_amount = 0;
 	stack_amount = 0
 	},
+/obj/structure/blocker/forcefield/multitile_vehicles,
 /turf/open/gm/coast/east,
 /area/varadero/exterior/pontoon_beach)
 "Zp" = (
@@ -2270,7 +2434,7 @@ oe
 cs
 zt
 Ml
-qQ
+ay
 LT
 ZE
 kY
@@ -2278,7 +2442,7 @@ nx
 kY
 ZE
 LT
-xG
+av
 Tr
 qQ
 nx
@@ -2286,7 +2450,7 @@ nx
 hp
 aa
 aa
-hp
+al
 Af
 DW
 wn
@@ -2297,7 +2461,7 @@ wn
 wn
 wn
 JQ
-nx
+ab
 wr
 "}
 (2,1,1) = {"
@@ -2309,7 +2473,7 @@ bf
 nF
 zt
 cF
-qQ
+ay
 ni
 kY
 ZE
@@ -2317,7 +2481,7 @@ LT
 ZE
 kY
 LT
-xG
+av
 Mc
 qQ
 hp
@@ -2325,7 +2489,7 @@ oQ
 Uu
 fe
 JQ
-AS
+ai
 py
 wn
 fe
@@ -2345,10 +2509,10 @@ Nz
 ws
 xp
 Ws
-iP
+az
 zt
 cF
-qQ
+ay
 LT
 ZE
 kY
@@ -2356,7 +2520,7 @@ LT
 kY
 ZE
 LT
-xG
+av
 Mc
 qQ
 AS
@@ -2364,8 +2528,8 @@ ge
 py
 ur
 JQ
-oX
-Ew
+ak
+ah
 Io
 wn
 wn
@@ -2387,7 +2551,7 @@ rf
 og
 zt
 cF
-qQ
+ay
 LT
 kY
 AN
@@ -2395,7 +2559,7 @@ LT
 ZE
 kY
 LT
-xG
+av
 Mc
 Xu
 AS
@@ -2404,10 +2568,10 @@ tk
 nc
 PW
 nx
-oX
-SO
-SO
-Ew
+ak
+an
+an
+ah
 wn
 fe
 wn
@@ -2426,7 +2590,7 @@ rf
 og
 zt
 cF
-qQ
+ay
 LT
 ZE
 kY
@@ -2434,7 +2598,7 @@ LT
 kY
 ZE
 nx
-xG
+av
 Mc
 qQ
 oX
@@ -2446,15 +2610,15 @@ nx
 nx
 nx
 nx
-oX
-Ew
+ak
+ah
 wn
 zi
 wn
 wn
 wn
 JQ
-nx
+ab
 "}
 (6,1,1) = {"
 Zc
@@ -2462,10 +2626,10 @@ LN
 LN
 LN
 dR
-iP
+az
 zt
 cF
-qQ
+ay
 LT
 kY
 AN
@@ -2473,7 +2637,7 @@ LT
 ZE
 kY
 LT
-xG
+av
 Mc
 qQ
 pM
@@ -2486,14 +2650,14 @@ nx
 nx
 mR
 nx
-AS
+ai
 fe
 wn
 wn
 fe
 wn
 LG
-va
+ad
 "}
 (7,1,1) = {"
 nx
@@ -2501,10 +2665,10 @@ nx
 pM
 NB
 Ko
-iP
+az
 zt
 cF
-qQ
+ay
 ni
 ZE
 kY
@@ -2512,7 +2676,7 @@ LT
 kY
 AN
 LT
-xG
+av
 Mc
 qQ
 nx
@@ -2524,15 +2688,15 @@ nx
 nx
 nx
 nx
-hp
-Af
+al
+aj
 fe
 ur
 wn
 WB
 FR
 wn
-JQ
+ae
 "}
 (8,1,1) = {"
 LT
@@ -2543,15 +2707,15 @@ mm
 og
 zt
 cF
-qQ
-nx
-kY
-AN
-nx
-AN
-kY
-nx
-xG
+ay
+ab
+aw
+ax
+ab
+ax
+aw
+ab
+av
 Mc
 fO
 nx
@@ -2563,7 +2727,7 @@ aa
 oh
 nx
 nx
-AS
+ai
 fe
 UZ
 wn
@@ -2571,15 +2735,15 @@ fe
 wn
 wn
 wn
-JQ
+ae
 "}
 (9,1,1) = {"
 nx
 nx
 NB
 Ko
-ni
-iP
+pM
+az
 zt
 eX
 xQ
@@ -2602,7 +2766,7 @@ nx
 nx
 nx
 nx
-AS
+ai
 Mi
 JF
 wn
@@ -2610,15 +2774,15 @@ fe
 UG
 wn
 pg
-JQ
+ae
 "}
 (10,1,1) = {"
 pM
 NB
 NB
 Ko
-LT
-iP
+nx
+az
 zt
 lQ
 Uc
@@ -2641,7 +2805,7 @@ nx
 pM
 nx
 nx
-AS
+ai
 wn
 fe
 wn
@@ -2649,7 +2813,7 @@ wn
 fe
 wn
 wn
-JQ
+ae
 "}
 (11,1,1) = {"
 LT
@@ -2680,23 +2844,23 @@ va
 nx
 nx
 nx
-oX
-Ew
+ak
+ah
 wn
 fe
 wn
 fe
 kG
 wn
-JQ
+ae
 "}
 (12,1,1) = {"
-nx
 LT
+nx
 Ko
 nx
-nx
-iP
+LT
+av
 zt
 NA
 uk
@@ -2720,22 +2884,22 @@ nx
 oh
 nx
 nx
-oX
+ak
 Ew
 ur
 wn
 fe
 wn
 yY
-PW
+af
 "}
 (13,1,1) = {"
 LT
+nx
+Ko
+nx
 LT
-ZF
-LT
-LT
-og
+aA
 zt
 cF
 Ug
@@ -2759,22 +2923,22 @@ iq
 nx
 nx
 nx
-nx
+ab
 AS
 ur
 Mi
 wn
 wn
 JQ
-nx
+ab
 "}
 (14,1,1) = {"
 LT
+nx
+Ko
+nx
 LT
-ZF
-LT
-LT
-iP
+av
 zt
 cF
 GA
@@ -2798,14 +2962,14 @@ RY
 nx
 nx
 nx
-hp
+al
 Af
 fe
 fe
 wn
 fe
 hS
-nx
+ab
 "}
 (15,1,1) = {"
 LT
@@ -2813,7 +2977,7 @@ nx
 Ko
 nx
 LT
-og
+aA
 zt
 lQ
 Nc
@@ -2837,20 +3001,20 @@ rx
 nx
 qu
 qu
-AS
+ai
 wn
 yY
 Ew
 py
 fe
 Cm
-nx
+ab
 "}
 (16,1,1) = {"
 LT
 nx
-ZF
-LT
+Ko
+nx
 Cp
 fh
 zt
@@ -2876,20 +3040,20 @@ RY
 nx
 qu
 qu
-AS
+ai
 wn
 LG
 Af
 fe
 fe
 LG
-va
+ad
 "}
 (17,1,1) = {"
 LT
 nx
-ZF
-LT
+Ko
+nx
 Ky
 Lg
 iZ
@@ -2915,14 +3079,14 @@ iS
 xG
 eK
 Xu
-oX
+ak
 Ew
 wn
 wn
 fe
 IU
 wn
-JQ
+ae
 "}
 (18,1,1) = {"
 LT
@@ -2954,20 +3118,20 @@ nx
 xG
 ZX
 Xu
-hp
+al
 Af
 fN
 wn
 wn
 fe
 zU
-JQ
+ae
 "}
 (19,1,1) = {"
 LT
-LT
+nx
 NB
-ZF
+Ko
 Ky
 SU
 Oi
@@ -2993,18 +3157,18 @@ nx
 xG
 ZX
 qQ
-AS
+ai
 wn
 wn
 SE
 wn
 fe
 IU
-JQ
+ae
 "}
 (20,1,1) = {"
-nx
 LT
+nx
 gO
 Mp
 xu
@@ -3032,22 +3196,22 @@ bo
 Fg
 ZX
 Xu
-AS
+ai
 pg
 fe
 wn
 wn
 wn
 yY
-PW
+af
 "}
 (21,1,1) = {"
 LT
 nx
-hj
+ZF
 LT
 LT
-iP
+av
 zt
 cF
 GA
@@ -3071,22 +3235,22 @@ Uc
 Uc
 Mc
 Xu
-oX
+ak
 Ew
 IU
 wn
 tc
 ap
 Rz
-bo
+ag
 "}
 (22,1,1) = {"
 LT
 LT
 ZF
-nx
 LT
-iP
+LT
+aB
 zt
 cF
 Ug
@@ -3110,7 +3274,7 @@ jh
 dn
 Mc
 Xu
-nx
+ab
 AS
 wn
 wn
@@ -3124,8 +3288,8 @@ nx
 nx
 Ko
 nx
-nx
-og
+LT
+aA
 zt
 SP
 xv
@@ -3139,7 +3303,7 @@ Sk
 iA
 xA
 jr
-jh
+as
 iS
 lC
 nx
@@ -3149,7 +3313,7 @@ aa
 mL
 Mc
 Xu
-nx
+ab
 AS
 ne
 WB
@@ -3168,17 +3332,17 @@ og
 zt
 cF
 sX
-Kk
+dE
 ap
 ap
 ap
-Hz
+ap
 ta
 se
 Zp
 Mc
 Xu
-pM
+at
 nx
 nx
 wr
@@ -3188,7 +3352,7 @@ aa
 xG
 Mc
 qQ
-hp
+al
 Af
 yj
 wn
@@ -3202,8 +3366,8 @@ Rq
 ws
 DA
 Xu
-pM
-iP
+aC
+az
 zt
 lQ
 GB
@@ -3217,8 +3381,8 @@ Uc
 Uc
 xR
 tU
-oQ
-va
+aq
+ad
 nx
 nx
 wr
@@ -3227,7 +3391,7 @@ aa
 xG
 Mc
 Xu
-AS
+ai
 wn
 WQ
 fe
@@ -3257,16 +3421,16 @@ nV
 Tr
 pk
 wn
-LG
-oQ
-va
+ar
+aq
+ad
 nx
 nx
 wr
 Vn
 Mc
 qQ
-AS
+ai
 wn
 eY
 ul
@@ -3281,31 +3445,31 @@ TH
 oe
 Xu
 NB
-iP
+az
 zt
 cF
-qQ
-nx
-nx
-nx
-nx
-nx
-nx
-nx
-xG
+ay
+ab
+ab
+ab
+ab
+ab
+ab
+ab
+av
 Tr
 pk
 Co
 wn
 wn
-LG
-va
+ar
+ad
 nx
 nx
 xG
 Mc
 Xu
-AS
+ai
 UZ
 zd
 py
@@ -3323,7 +3487,7 @@ Ya
 og
 zt
 oA
-qQ
+ay
 nx
 aa
 aa
@@ -3331,20 +3495,20 @@ LT
 LT
 wr
 aa
-xG
+av
 Mc
 pk
 IK
 IK
 fe
 Mi
-JQ
+ae
 nx
 mR
 xG
 Mc
 Xu
-AS
+ai
 wn
 zd
 eq
@@ -3362,7 +3526,7 @@ rR
 bH
 zt
 oA
-qQ
+ay
 LT
 nx
 aa
@@ -3370,20 +3534,20 @@ aa
 ac
 LT
 aa
-xG
+av
 Mc
 pk
 wn
 ne
 IK
 wn
-JQ
+ae
 nx
 nx
 xG
 Mc
 Xu
-AS
+ai
 Ua
 Ua
 Ua
@@ -3409,20 +3573,20 @@ nx
 nx
 kU
 LT
-xG
+av
 Tr
 lO
 fe
 wn
 XF
 fe
-JQ
+ae
 nx
 nx
 xG
 Mc
 qQ
-AS
+ai
 ne
 zd
 wn
@@ -3448,20 +3612,20 @@ oQ
 va
 nx
 wr
-xG
-Tr
+av
+au
 rb
 IK
 wn
 ur
 mC
-LG
-oQ
-oQ
+ar
+aq
+aq
 BF
-Mc
+ao
 dl
-Af
+aj
 wn
 zd
 Oe
